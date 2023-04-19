@@ -5,9 +5,9 @@ module.exports = {
     container: {
       center: true, // to center a container
       screens: {
-        lg: '1040px',
-        xl: '1040px',
-        '2xl': '1040px',
+        lg: '1140px',
+        xl: '1140px',
+        '2xl': '1140px',
       }
     },
     extend: {
